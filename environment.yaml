@@ -5,7 +5,7 @@ metadata:
   description: demo
   annotations:
     # mandatory annotation
-    harness.io/project-url: https://app.harness.io/ng/#/account/vpCkHKsDSxK9_KYfjCTMKA/home/orgs/default/projects/communityeng
+    harness.io/project-url: https://app.harness.io/ng/#/account/Dq_I2stwQMGn1ERl8BfzeQ/cd/orgs/default/projects/cdnglabs/
     # optional annotations, don't include this block if not needed
     harness.io/ci-pipelineIds: <pipelineId1,pipelineId2,pipelineId3 etc>
     harness.io/cd-serviceId: <serviceId>
